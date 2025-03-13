@@ -9,3 +9,4 @@ This repository contains a collection of machine learning models, demonstrating 
 - **Recurrent Neural Network (RNN)**: Designed for processing sequential data like time series, speech, or text, with specialized models like LSTM.
 - **Dimensionality Reduction:** Used to reduce the number of features in a dataset while preserving important information, improving model performance and visualization.
 - **Unsupervised Machine Learning:** Used for discovering patterns and structures in unlabeled data, often used for exploratory data analysis and anomaly detection.
+- **Reinforcement Learning:** An agent learns by interacting with its environment to maximize rewards over time, used in tasks like game playing, robotics, and decision-making problems.
